@@ -51,9 +51,12 @@ that AI might want to deceive you about"](https://www.greaterwrong.com/posts/uMQ
 case of a model that "began to mimic those new behaviors to avoid being
 retrained" while secretly preserving original goals when unobserved
 ([If Anyone Builds It, Everyone Dies](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html),
-Yudkowsky & Soares, 2025). The book's central analogies — the
-[peacock's tail](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=peacocks%20ended%20up%20with%20giant%20colorful%20tails)
-and [sucralose](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=humans%20intentionally%20seek%20out%20certain%20foods)
+Yudkowsky & Soares, 2025; [Ch. 7](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#chapter007)).
+The book's central analogies — the
+[peacock's tail](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=Consider%20the%20peacock.%20It%20is%20a%20prey%20animal%2C%20and%20yet%20peacocks%20ended%20up%20with%20giant%20colorful%20tails)
+([Ch. 4](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#chapter004))
+and [sucralose](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=hominids%20invent%20sucralose)
+([Ch. 4](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#chapter004))
 — illustrate how indirect selection produces counterintuitive outcomes.
 
 **Link 6: Convergent Instrumental Goals**
