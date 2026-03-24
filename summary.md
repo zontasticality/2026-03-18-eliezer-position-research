@@ -38,8 +38,11 @@ Eliezer's doom case is a logical chain of 6 key claims:
 
 ## The Tool-AI / Composable Systems / Augmentation Critique
 
-The strongest version of this alternative thesis (synthesized from Drexler,
-Barak, Chilson, and others):
+The strongest version of this alternative thesis (synthesized from
+[Drexler](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html),
+[Barak](https://www.lesswrong.com/posts/wDL6wiqg3c6WFisHq/gpt-as-an-intelligence-forklift),
+[Chilson](https://reason.com/2026/02/01/superintelligent-ai-is-not-coming-to-kill-you/),
+and others):
 
 **Premise**: AI need not develop as unified goal-directed agents. It can
 develop as composable optimization tools that amplify human cognition.
@@ -47,7 +50,7 @@ develop as composable optimization tools that amplify human cognition.
 **Key arguments**:
 - Prediction and agency are genuinely distinct (LLMs prove this empirically)
 - The agentic layer in current AI is crafted/interpretable, not learned/opaque
-- Composable narrow services can achieve general capability without unified agency (CAIS)
+- Composable narrow services can achieve general capability without unified agency ([CAIS](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=Comprehensive%20AI%20Services))
 - Computational irreducibility limits even superintelligent control
 - Humans maintain understanding and agency by using AI as cognitive prosthetics
 - This can be extended via BCI and eventually whole-brain emulation
@@ -70,19 +73,20 @@ deceptive alignment is harder to execute.
 2. **Planning IS agency**: A system that generates plans for "cure cancer"
    must model the world, predict consequences, and select among options.
    This is functionally indistinguishable from agency regardless of what
-   you call it (Yudkowsky, Reply to Holden).
+   you call it ([Yudkowsky, Reply to Holden](https://www.lesswrong.com/posts/sizjfDgCgAsuLJQmm/reply-to-holden-on-tool-ai)).
 
 3. **Foundation models trend unitary**: Empirically, AI development has
    produced increasingly unified general-purpose systems, not Drexler's
-   predicted ecosystem of narrow services (Barnett 2023).
+   predicted ecosystem of narrow services ([Barnett 2023](https://www.alignmentforum.org/posts/a5NxvzFGddj2e8uXQ/updating-drexler-s-cais-model)).
 
 4. **BCI provides only constant-factor improvement**: BCIs give perhaps 2x
    human speedup, but AI capabilities may grow exponentially. The human
-   bottleneck isn't eliminated, just slightly widened (niplav 2023).
+   bottleneck isn't eliminated, just slightly widened ([niplav 2023](https://www.lesswrong.com/posts/rpRsksjrBXEDJuHHy/brain-computer-interfaces-and-ai-alignment#:~:text=BCIs%20seem%20to%20offer%20an%20advantage%20by%20a%20constant%20factor)).
 
-5. **Shulman's paradox**: "Creating aligned AGI through BCI is quite dubious
+5. **Shulman's paradox**: ["Creating aligned AGI through BCI is quite dubious
    (it basically requires having aligned AGI to link with, and so is
-   superfluous)" — you need aligned AI before BCI helps, making BCI redundant.
+   superfluous)"](https://www.lesswrong.com/posts/rpRsksjrBXEDJuHHy/brain-computer-interfaces-and-ai-alignment#:~:text=Creating%20aligned%20AGI%20through%20BCI%20is%20quite%20dubious)
+   — you need aligned AI before BCI helps, making BCI redundant.
 
 ### Weak responses:
 
@@ -133,7 +137,7 @@ hasn't been argued in detail.
 AI development will produce visible disruptions (job losses, deepfakes,
 autonomous weapons) well before superintelligence. These disruptions will
 drive public alarm and governance responses. Society does not sleepwalk
-into existential risk when the precursors are highly visible (Kraus, Lawfare).
+into existential risk when the precursors are highly visible ([Kraus, Lawfare](https://www.lawfaremedia.org/article/the-case-for-ai-doom-rests-on-three-unsettled-questions)).
 
 **Unresolved because**: Eliezer and Soares assume societal sleepwalking but
 don't seriously argue for it against the counter-evidence of increasing AI

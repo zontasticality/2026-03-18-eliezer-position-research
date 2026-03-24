@@ -10,7 +10,9 @@
     {
       "id": 1,
       "title": "AGI Ruin: A List of Lethalities",
-      "authors": ["Eliezer Yudkowsky"],
+      "authors": [
+        "Eliezer Yudkowsky"
+      ],
       "year": 2022,
       "doi": null,
       "pmid": null,
@@ -32,7 +34,10 @@
     {
       "id": 2,
       "title": "If Anyone Builds It, Everyone Dies",
-      "authors": ["Eliezer Yudkowsky", "Nate Soares"],
+      "authors": [
+        "Eliezer Yudkowsky",
+        "Nate Soares"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -54,7 +59,9 @@
     {
       "id": 3,
       "title": "Reply to Holden on 'Tool AI'",
-      "authors": ["Eliezer Yudkowsky"],
+      "authors": [
+        "Eliezer Yudkowsky"
+      ],
       "year": 2012,
       "doi": null,
       "pmid": null,
@@ -76,7 +83,9 @@
     {
       "id": 4,
       "title": "A Central AI Alignment Problem: Capabilities Generalization, and the Sharp Left Turn",
-      "authors": ["Nate Soares"],
+      "authors": [
+        "Nate Soares"
+      ],
       "year": 2022,
       "doi": null,
       "pmid": null,
@@ -98,7 +107,9 @@
     {
       "id": 5,
       "title": "Contra Yudkowsky on AI Doom",
-      "authors": ["jacob_cannell"],
+      "authors": [
+        "jacob_cannell"
+      ],
       "year": 2023,
       "doi": null,
       "pmid": null,
@@ -120,7 +131,9 @@
     {
       "id": 6,
       "title": "Where I agree and disagree with Eliezer",
-      "authors": ["Paul Christiano"],
+      "authors": [
+        "Paul Christiano"
+      ],
       "year": 2022,
       "doi": null,
       "pmid": null,
@@ -142,7 +155,9 @@
     {
       "id": 7,
       "title": "Reframing Superintelligence: Comprehensive AI Services as General Intelligence",
-      "authors": ["Eric Drexler"],
+      "authors": [
+        "Eric Drexler"
+      ],
       "year": 2019,
       "doi": null,
       "pmid": null,
@@ -153,18 +168,24 @@
       "type": "technical-report",
       "found_via": "Web search for CAIS framework",
       "url": "https://www.fhi.ox.ac.uk/reframing/",
-      "download": null,
+      "download": {
+        "hash": "7bd43187b2810665fd46d9d5ad61dba7",
+        "format": "pdf",
+        "filename": "Reframing Superintelligence - K. Eric Drexler 2019.pdf"
+      },
       "status": "scouted-only",
       "status_detail": "Read via LessWrong summary post and Drexler on AI Risk",
       "relevance_level": "VERY HIGH",
       "relevance": "THE foundational document for composable-services-vs-monolithic-agent alternative to the doom paradigm",
-      "html_filename": null,
+      "html_filename": "Reframing Superintelligence - K. Eric Drexler 2019.html",
       "crossref_enriched": false
     },
     {
       "id": 8,
       "title": "Drexler on AI Risk",
-      "authors": ["Wei Dai (discussion)"],
+      "authors": [
+        "Wei Dai (discussion)"
+      ],
       "year": 2019,
       "doi": null,
       "pmid": null,
@@ -186,7 +207,9 @@
     {
       "id": 9,
       "title": "Superintelligent AI Is Not Coming To Kill You (What Eliezer Yudkowsky's AI doom predictions get wrong)",
-      "authors": ["Alex Chilson"],
+      "authors": [
+        "Alex Chilson"
+      ],
       "year": 2026,
       "doi": null,
       "pmid": null,
@@ -208,7 +231,9 @@
     {
       "id": 10,
       "title": "Why 'Everyone Dies' Gets AGI All Wrong",
-      "authors": ["Ben Goertzel"],
+      "authors": [
+        "Ben Goertzel"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -230,7 +255,9 @@
     {
       "id": 11,
       "title": "Brain-Computer Interfaces and AI Alignment",
-      "authors": ["niplav"],
+      "authors": [
+        "niplav"
+      ],
       "year": 2023,
       "doi": null,
       "pmid": null,
@@ -252,7 +279,9 @@
     {
       "id": 12,
       "title": "GPT as an Intelligence Forklift",
-      "authors": ["Boaz Barak"],
+      "authors": [
+        "Boaz Barak"
+      ],
       "year": 2023,
       "doi": null,
       "pmid": null,
@@ -274,7 +303,9 @@
     {
       "id": 13,
       "title": "In Defense of Oracle ('Tool') AI Research",
-      "authors": ["Steven Byrnes"],
+      "authors": [
+        "Steven Byrnes"
+      ],
       "year": 2020,
       "doi": null,
       "pmid": null,
@@ -296,7 +327,9 @@
     {
       "id": 14,
       "title": "Against 'If Anyone Builds It Everyone Dies'",
-      "authors": ["Bentham's Bulldog"],
+      "authors": [
+        "Bentham's Bulldog"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -318,7 +351,9 @@
     {
       "id": 15,
       "title": "The Case for AI Doom Rests on Three Unsettled Questions",
-      "authors": ["Matthew Kraus"],
+      "authors": [
+        "Matthew Kraus"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -340,7 +375,9 @@
     {
       "id": 16,
       "title": "The Case for AI Doom Isn't Very Convincing",
-      "authors": ["Timothy B. Lee"],
+      "authors": [
+        "Timothy B. Lee"
+      ],
       "year": 2024,
       "doi": null,
       "pmid": null,
@@ -362,7 +399,9 @@
     {
       "id": 17,
       "title": "Deconstructing Doomer Arguments, One By One",
-      "authors": ["Dave Shapiro"],
+      "authors": [
+        "Dave Shapiro"
+      ],
       "year": 2024,
       "doi": null,
       "pmid": null,
@@ -384,7 +423,9 @@
     {
       "id": 18,
       "title": "More Was Possible: A Review of If Anyone Builds It, Everyone Dies",
-      "authors": ["Asterisk Magazine"],
+      "authors": [
+        "Asterisk Magazine"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -406,7 +447,9 @@
     {
       "id": 19,
       "title": "Updating Drexler's CAIS Model",
-      "authors": ["Matthew Barnett"],
+      "authors": [
+        "Matthew Barnett"
+      ],
       "year": 2023,
       "doi": null,
       "pmid": null,
@@ -428,7 +471,10 @@
     {
       "id": 20,
       "title": "Eliezer Yudkowsky - Human Augmentation as a Safer AGI Pathway (interview)",
-      "authors": ["Dan Faggella", "Eliezer Yudkowsky"],
+      "authors": [
+        "Dan Faggella",
+        "Eliezer Yudkowsky"
+      ],
       "year": 2024,
       "doi": null,
       "pmid": null,

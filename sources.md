@@ -1,5 +1,17 @@
 # Sources — Eliezer Yudkowsky's AI Doom Position: Core Arguments and Critiques
 
+## Downloaded Papers
+
+### 7. Drexler 2019 — Reframing Superintelligence: Comprehensive AI Services as General Intelligence
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html)
+- **Title**: Reframing Superintelligence: Comprehensive AI Services as General Intelligence
+- **Authors**: Eric Drexler
+- **Journal**: Future of Humanity Institute
+- **Year**: 2019
+- **Found via**: Web search for CAIS framework
+- **Status**: `[downloaded]` `[scouted-only: Read via LessWrong summary post and Drexler on AI Risk]`
+- **Relevance**: **VERY HIGH**. THE foundational document for composable-services-vs-monolithic-agent alternative to the doom paradigm
+
 ## Additional Sources
 
 ### 1. Yudkowsky 2022 — AGI Ruin: A List of Lethalities
@@ -54,15 +66,6 @@
 - **Found via**: Web search for critiques within alignment community
 - **Status**: `[scouted-only: Failed to fetch - 429 rate limit]`
 - **Relevance**: **HIGH**. Important insider critique from within alignment community on takeoff speed and iterative approaches
-
-### 7. Drexler 2019 — Reframing Superintelligence: Comprehensive AI Services as General Intelligence
-- **Title**: Reframing Superintelligence: Comprehensive AI Services as General Intelligence
-- **Authors**: Eric Drexler
-- **Journal**: Future of Humanity Institute
-- **Year**: 2019
-- **Found via**: Web search for CAIS framework
-- **Status**: `[scouted-only: Read via LessWrong summary post and Drexler on AI Risk]`
-- **Relevance**: **VERY HIGH**. THE foundational document for composable-services-vs-monolithic-agent alternative to the doom paradigm
 
 ### 8. (discussion) 2019 — Drexler on AI Risk
 - **Title**: Drexler on AI Risk
