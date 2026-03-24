@@ -184,6 +184,33 @@
 - **Status**: `[scouted-only: Could not fetch transcript; appears to discuss augmentation as safer pathway]`
 - **Relevance**: **HIGH**. Yudkowsky directly discussing human augmentation approach - could not extract content
 
+### 21. Narayanan et al. 2025 — AI as Normal Technology
+- **Title**: AI as Normal Technology
+- **Authors**: Arvind Narayanan, Sayash Kapoor
+- **Journal**: Knight First Amendment Institute
+- **Year**: 2025
+- **Found via**: User-provided link
+- **Status**: `[read-full]`
+- **Relevance**: **VERY HIGH**. Most comprehensive anti-doom framework: three-timescale diffusion, construct validity, organizational adoption paths, harm-from-orchestration, defender advantage
+
+### 22. Alexander 2025 — AI As Profoundly Abnormal Technology
+- **Title**: AI As Profoundly Abnormal Technology
+- **Authors**: Scott Alexander
+- **Journal**: AI Futures Blog
+- **Year**: 2025
+- **Found via**: Web search for critiques of Narayanan/Kapoor
+- **Status**: `[read-full]`
+- **Relevance**: **VERY HIGH**. Primary doomer response to Normal Technology thesis: rapid actual adoption, Mossad threat model, COVID analogy for speculative risk, recursive self-improvement
+
+### 23. Farrell 2025 — Understanding AI as a Social Technology
+- **Title**: Understanding AI as a Social Technology
+- **Authors**: Henry Farrell
+- **Journal**: Programmable Mutter
+- **Year**: 2025
+- **Found via**: Web search for critiques of Normal Technology thesis
+- **Status**: `[read-full]`
+- **Relevance**: **MODERATE-HIGH**. Third-way framing: 'Slow Singularity' - AI reshapes social institutions like markets/bureaucracies already do, neither normal-tech nor doom captures this
+
 ## Sources Not Yet Found / Gaps
 
 *(See questions.md for open gaps.)*

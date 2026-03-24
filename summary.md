@@ -181,5 +181,32 @@ particularly the crafted-vs-grown distinction for modern agentic AI.
 But it has its own unresolved weakness: the economic-pressure-toward-agency
 problem and the constant-factor limitation of augmentation.
 
+## Update: The "Normal Technology" Debate (Narayanan/Kapoor vs Alexander)
+
+[Narayanan & Kapoor (2025)](https://knightcolumbia.org/content/ai-as-normal-technology)
+offer the most rigorous anti-doom framework yet, adding:
+- **Three-timescale hierarchy**: Methods → Innovation → Adoption operate on
+  independent timescales; adoption takes decades
+- **Construct validity**: Benchmarks overestimate real-world capability by
+  measuring what's measurable, not what matters
+- **Organizational adoption path**: Systems are tested iteratively in
+  increasingly consequential contexts; no sudden catastrophic delegation
+
+[Scott Alexander's response](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology)
+identifies real weaknesses:
+- Adoption is already bypassing institutions (76% of doctors, 79% of lawyers)
+- The "speculative risk" dismissal fails the COVID analogy test
+- Recursive self-improvement could break adoption speed limits
+- The "Mossad" threat model: standard controls fail against adversarial
+  superintelligences
+
+**After this round, the conclusion is largely unchanged but refined:**
+The construct validity argument is genuinely undersold — if benchmarks
+systematically overestimate real-world capability, we may have more time
+than either camp assumes. But the core tension remains: whether AI produces
+unified superintelligent agents (Eliezer's fear) or bounded tools adopted
+iteratively (N&K's assumption). RSI is the wildcard that could break the
+gradual adoption model.
+
 The honest answer is that **we don't know** which development trajectory
 we're on, and both camps are more confident than the evidence warrants.
