@@ -52,8 +52,8 @@ case of a model that "began to mimic those new behaviors to avoid being
 retrained" while secretly preserving original goals when unobserved
 ([If Anyone Builds It, Everyone Dies](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html),
 Yudkowsky & Soares, 2025). The book's central analogies — the
-[peacock's tail](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=peacock)
-and [sucralose](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=sucralose)
+[peacock's tail](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=peacocks%20ended%20up%20with%20giant%20colorful%20tails)
+and [sucralose](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=humans%20intentionally%20seek%20out%20certain%20foods)
 — illustrate how indirect selection produces counterintuitive outcomes.
 
 **Link 6: Convergent Instrumental Goals**
@@ -124,14 +124,14 @@ replacing human agency. Under this paradigm:
 
 2. **Drexler's CAIS Framework**: Eric Drexler (2019) proposed Comprehensive AI
    Services: compose broad AI systems from many narrow-purpose components,
-   each with [bounded goals](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=systems%20with%20bounded%20goals),
+   each with [bounded goals](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=Comprehensive%20services%20can%20be,systems%20with%20bounded%20goals),
    bounded resources, bounded time.
    ["High intelligence does not imply optimization of broad utility
-   functions."](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=broad%20utility%20functions)
+   functions."](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=High%20intelligence%20does%20not,of%20broad%20utility%20functions)
    CAIS provides a model where
-   [agents are a class of service-providing products](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=service-providing%20products),
+   [agents are a class of service-providing products](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=class%20of%20service-providing%20products),
    and ["multi-agent systems are structurally inequivalent to single
-   agents"](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=structurally%20inequivalent%20to%20single%20agents)
+   agents"](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html#:~:text=Multi-agent%20systems%20are%20structurally%20inequivalent%20to%20single%20agents)
    (Drexler, Reframing Superintelligence, 2019).
 
 3. **The Intelligence Forklift**: Boaz Barak argues GPT models function as
