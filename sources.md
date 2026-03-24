@@ -2,6 +2,16 @@
 
 ## Downloaded Papers
 
+### 2. Yudkowsky et al. 2025 — If Anyone Builds It, Everyone Dies
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html)
+- **Title**: If Anyone Builds It, Everyone Dies
+- **Authors**: Eliezer Yudkowsky, Nate Soares
+- **Journal**: Little, Brown and Company
+- **Year**: 2025
+- **Found via**: Web search; book-length expansion of AGI Ruin arguments
+- **Status**: `[downloaded]` `[downloaded: Downloaded via anna-mcp; previously read via summary at ai-frontiers.org and Asterisk review]`
+- **Relevance**: **VERY HIGH**. Book-length expansion of the doom case, with evolution/peacock analogies and documented AI deception cases
+
 ### 7. Drexler 2019 — Reframing Superintelligence: Comprehensive AI Services as General Intelligence
 - **HTML**: [View paper](https://zontasticality.github.io/2026-03-18-eliezer-position-research/Reframing%20Superintelligence%20-%20K.%20Eric%20Drexler%202019.html)
 - **Title**: Reframing Superintelligence: Comprehensive AI Services as General Intelligence
@@ -22,14 +32,6 @@
 - **Found via**: Web search for Eliezer's core doom arguments
 - **Status**: `[read-full: Read via GreaterWrong mirror]`
 - **Relevance**: **VERY HIGH**. THE primary source - Eliezer's master list of why AGI kills everyone
-
-### 2. Yudkowsky et al. 2025 — If Anyone Builds It, Everyone Dies
-- **Title**: If Anyone Builds It, Everyone Dies
-- **Authors**: Eliezer Yudkowsky, Nate Soares
-- **Year**: 2025
-- **Found via**: Web search; book-length expansion of AGI Ruin arguments
-- **Status**: `[scouted-only: Read via summary at ai-frontiers.org and Asterisk review]`
-- **Relevance**: **VERY HIGH**. Book-length expansion of the doom case, with evolution/peacock analogies and documented AI deception cases
 
 ### 3. Yudkowsky 2012 — Reply to Holden on 'Tool AI'
 - **Title**: Reply to Holden on 'Tool AI'

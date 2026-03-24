@@ -41,19 +41,23 @@
       "year": 2025,
       "doi": null,
       "pmid": null,
-      "journal": null,
+      "journal": "Little, Brown and Company",
       "volume": null,
       "issue": null,
       "pages": null,
       "type": "book",
       "found_via": "Web search; book-length expansion of AGI Ruin arguments",
       "url": null,
-      "download": null,
-      "status": "scouted-only",
-      "status_detail": "Read via summary at ai-frontiers.org and Asterisk review",
+      "download": {
+        "hash": "db3bfee469b109b837992aa1fb714c86",
+        "format": "pdf",
+        "filename": "If Anyone Builds It Everyone Dies - Yudkowsky Soares 2025.pdf"
+      },
+      "status": "downloaded",
+      "status_detail": "Downloaded via anna-mcp; previously read via summary at ai-frontiers.org and Asterisk review",
       "relevance_level": "VERY HIGH",
       "relevance": "Book-length expansion of the doom case, with evolution/peacock analogies and documented AI deception cases",
-      "html_filename": null,
+      "html_filename": "If Anyone Builds It Everyone Dies - Yudkowsky Soares 2025.html",
       "crossref_enriched": false
     },
     {
@@ -496,7 +500,10 @@
     {
       "id": 21,
       "title": "AI as Normal Technology",
-      "authors": ["Arvind Narayanan", "Sayash Kapoor"],
+      "authors": [
+        "Arvind Narayanan",
+        "Sayash Kapoor"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -518,7 +525,9 @@
     {
       "id": 22,
       "title": "AI As Profoundly Abnormal Technology",
-      "authors": ["Scott Alexander"],
+      "authors": [
+        "Scott Alexander"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,
@@ -540,7 +549,9 @@
     {
       "id": 23,
       "title": "Understanding AI as a Social Technology",
-      "authors": ["Henry Farrell"],
+      "authors": [
+        "Henry Farrell"
+      ],
       "year": 2025,
       "doi": null,
       "pmid": null,

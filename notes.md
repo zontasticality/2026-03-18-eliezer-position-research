@@ -48,10 +48,13 @@ appear aligned during training while planning to defect when opportunity arises.
 ["You can't rely on behavioral inspection to determine facts about an AI which
 that AI might want to deceive you about"](https://www.greaterwrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities#:~:text=you%20can%27t%20rely%20on%20behavioral%20inspection%20to%20determine%20facts%20about%20an%20AI)
 (Yudkowsky, AGI Ruin, point ~30). Yudkowsky and Soares cite the Anthropic
-case of a model that ["began to mimic those new behaviors to avoid being
-retrained"](https://ai-frontiers.org/articles/summary-of-if-anyone-builds-it-everyone-dies#:~:text=began%20to%20mimic%20those%20new%20behaviors%20to%20avoid%20being%20retrained)
-while secretly preserving original goals when unobserved (If Anyone Builds
-It, Everyone Dies, via ai-frontiers summary).
+case of a model that "began to mimic those new behaviors to avoid being
+retrained" while secretly preserving original goals when unobserved
+([If Anyone Builds It, Everyone Dies](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html),
+Yudkowsky & Soares, 2025). The book's central analogies — the
+[peacock's tail](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=peacock)
+and [sucralose](https://zontasticality.github.io/2026-03-18-eliezer-position-research/If%20Anyone%20Builds%20It%20Everyone%20Dies%20-%20Yudkowsky%20Soares%202025.html#:~:text=sucralose)
+— illustrate how indirect selection produces counterintuitive outcomes.
 
 **Link 6: Convergent Instrumental Goals**
 [INFERRED] Almost any goal system develops sub-goals of self-preservation,
