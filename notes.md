@@ -361,15 +361,16 @@ Their novel contributions beyond what we'd already covered:
 
 1. **Three-timescale hierarchy** (Invention → Innovation → Adoption): Methods
    advance fast, but applications take years and adoption takes decades.
-   Electrification took 40 years to show in productivity stats. Only 0.5%-3.5%
-   of U.S. work hours involved generative AI by August 2024 despite 40%
-   of adults having tried it.
+   Electrification took 40 years to show in productivity stats. Only
+   ["0.5%-3.5% of work hours"](https://knightcolumbia.org/content/ai-as-normal-technology#:~:text=0.5%25-3.5%25%20of%20work%20hours)
+   involved generative AI by August 2024 despite 40% of adults having tried it.
 
 2. **Construct validity / benchmark critique**: GPT-4 scoring top-10% on the
-   bar exam tells us "remarkably little" about legal practice. Benchmarks
-   maximize what's measurable (knowledge retrieval), not what matters
-   (judgment, strategy). The hype cycle is structurally driven by this
-   measurement bias.
+   bar exam tells us
+   ["remarkably little"](https://knightcolumbia.org/content/ai-as-normal-technology#:~:text=this%20tells%20us%20remarkably%20little%20about%20AI%E2%80%99s%20ability%20to%20practice%20law)
+   about legal practice. Benchmarks maximize what's measurable (knowledge
+   retrieval), not what matters (judgment, strategy). The hype cycle is
+   structurally driven by this measurement bias.
 
 3. **Irreducible error hypothesis**: Some domains have inherent stochasticity
    where human performance already approaches the ceiling (geopolitical
@@ -386,8 +387,10 @@ Their novel contributions beyond what we'd already covered:
    is the wrong frame; defenses must be downstream.
 
 6. **Defender advantage**: Defenders can probe their own systems with AI
-   (Google's fuzzing example). "Restricting AI development could backfire —
-   we need powerful AI systems on the defensive side."
+   (Google's fuzzing example).
+   [paraphrase] N&K argue we should invest in
+   ["defensive applications rather than attempting to restrict the technology
+   itself"](https://knightcolumbia.org/content/ai-as-normal-technology#:~:text=investing%20in%20defensive%20applications%20rather%20than%20attempting%20to%20restrict%20the%20technology%20itself).
 
 7. **Ossification of canon**: Higher publication volume doesn't mean faster
    paradigm shifts (Chu & Evans research). Methods progress may face
@@ -399,17 +402,20 @@ Their novel contributions beyond what we'd already covered:
 wrote the primary doomer response. His strongest counterarguments:
 
 **Against the diffusion argument:**
-76% of doctors used ChatGPT for clinical decision-making; lawyer adoption
-went from 19% to 79% in one year; 62% of coders use AI tools. Adoption is
+["76% of doctors"](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=76%25%20of%20doctors%20used%20ChatGPT%20for%20clinical%20decision-making)
+used ChatGPT for clinical decision-making; lawyer adoption went from
+["19% to 79%"](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=19%25%20to%2079%25%20In%20One%20Year)
+in one year; 62% of coders use AI tools. Adoption is
 bypassing institutional review processes entirely — spreading through
 individual actors, not bureaucratic channels. [CLAIMED — Alexander cites
 surveys but doesn't address N&K's point that *intensity* of use (% of work
 hours) remains tiny]
 
 **Against "speculative risk" framing:**
-Alexander deploys the COVID analogy: "base-raters" dismissed pandemic risk as
-too speculative in March 2020, despite it meeting all criteria for reasonable
-preparation. You can't carve out a category of "speculative risk" and then
+Alexander deploys the COVID analogy:
+["Base-raters"](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=Base-raters%20acknowledge%20the%20exponential%20growth%20curves)
+dismissed pandemic risk as too speculative in March 2020, despite it meeting
+all criteria for reasonable preparation. You can't carve out a category of "speculative risk" and then
 deprioritize it — that's how you get caught flat-footed by real tail risks.
 [MY SYNTHESIS: This is a genuinely strong argument. N&K's epistemic/stochastic
 distinction may not survive scrutiny.]
@@ -417,8 +423,8 @@ distinction may not survive scrutiny.]
 **Against organizational adoption preventing catastrophe (the "Mossad" argument):**
 Standard control mechanisms (auditing, monitoring, least-privilege) assume
 non-adversarial foundations. Alexander invokes the cybersecurity threat model:
-"If your adversary is the Mossad, YOU'RE GONNA DIE AND THERE'S NOTHING THAT
-YOU CAN DO ABOUT IT." Superintelligences violate the assumptions that make
+["If your adversary is the Mossad, YOU'RE GONNA DIE AND THERE'S NOTHING THAT
+YOU CAN DO ABOUT IT."](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=If%20your%20adversary%20is%20the%20Mossad%2C%20YOU%27RE%20GONNA%20DIE) Superintelligences violate the assumptions that make
 normal safety engineering work — they're adversarial, resourceful, and don't
 respect institutional boundaries. [MY SYNTHESIS: This is the key clash. N&K
 assume you never *build* the Mossad-level adversary because adoption paths
@@ -426,30 +432,33 @@ prevent it. Alexander assumes you might build it accidentally through
 recursive self-improvement.]
 
 **Against benchmarks being meaningless:**
-Tail intelligence differences matter. "Mozart is definitely smarter than a
-tree shrew, this is a very important fact about Mozart." While marginal
+Tail intelligence differences matter. ["Mozart is definitely smarter than a
+tree shrew, this is a very important fact about Mozart."](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=Mozart%20is%20definitely%20smarter%20than%20a%20tree%20shrew) While marginal
 cases are fuzzy, extreme capability differences are consequential. Evolution
 optimized for African savanna, not 21st-century tasks — no evidence humans
 are at biological optima for forecasting or persuasion.
 
 **On recursive self-improvement:**
-"Exponential and even superexponential graphs are completely continuous —
-they just grow very very fast." AI labs already use AI for research. The
+["Exponential and even superexponential graphs are completely continuous —
+they just grow very very fast."](https://blog.ai-futures.org/p/ai-as-profoundly-abnormal-technology#:~:text=Exponential%20and%20even%20superexponential%20graphs%20are%20completely%20continuous) AI labs already use AI for research. The
 feedback loop doesn't require a discontinuity to be transformative.
 
 ### Narayanan & Kapoor's Response to Alexander
 
-They feel Alexander ["mostly talks past
-them"](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal).
+They feel Alexander
+["mostly talks past them"](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal#:~:text=mostly%20talks%20past%20us).
 Key counterpoints:
 
 - RSI is barely mentioned in their essay because they believe **external
   bottlenecks** (data, deployment, organizational adoption) prevent RSI from
   leading to superintelligence — the methods improvements can't overcome
   real-world constraints on *deploying* those methods.
-- On forecasting: they reject a "biological conception of human abilities"
-  — they argue "relatively simple computational tools in the hands of suitably
-  trained teams" can achieve near-optimal performance not because of immutable
+- On forecasting: they reject a
+  ["biological conception of human abilities"](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal#:~:text=biological%20conception%20of%20human%20abilities)
+  — they argue
+  ["relatively simple computational tools in the hands of suitably
+  trained teams"](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal#:~:text=relatively%20simple%20computational%20tools%20in%20the%20hands%20of%20suitably%20trained%20teams)
+  can achieve near-optimal performance not because of immutable
   biological limits, but because forecasting lacks the computational structure
   that gives AI advantages in domains like chess.
 - On rapid adoption: less than 1% of ChatGPT users regularly used "thinking"
@@ -459,14 +468,15 @@ Key counterpoints:
 ### Henry Farrell's Third Way: "Slow Singularity"
 
 [Farrell](https://www.programmablemutter.com/p/understanding-ai-as-a-social-technology)
-rejects both framings. He argues we're already living within a "Slow
-Singularity" that began with industrialization. Markets, bureaucracies, and
+rejects both framings. He argues we're already living within a
+["Slow Singularity"](https://www.programmablemutter.com/p/understanding-ai-as-a-social-technology#:~:text=Slow%20Singularity)
+that began with industrialization. Markets, bureaucracies, and
 now LLMs all function as distributed information processors that are
-indifferent to individual welfare. "Implementing normal technology is so slow
-[because] it requires sometimes profound social and economic transformations,
-and involves enormous political struggle." N&K acknowledge unpredictable
-societal effects but lack "specific arguments about what these consequences
-might be." [MY SYNTHESIS: This is a genuinely novel angle — neither doom
+indifferent to individual welfare. ["implementing normal technology is so slow (because) it requires sometimes
+profound social and economic transformations, and involves enormous political
+struggle."](https://www.programmablemutter.com/p/understanding-ai-as-a-social-technology#:~:text=implementing%20normal%20technology%20is%20so%20slow) N&K acknowledge unpredictable
+societal effects but lack
+["specific arguments about what these consequences might be."](https://www.programmablemutter.com/p/understanding-ai-as-a-social-technology#:~:text=specific%20arguments%20about%20what%20these%20consequences%20might%20be) [MY SYNTHESIS: This is a genuinely novel angle — neither doom
 nor normalcy, but the recognition that *all* powerful social technologies
 reshape power relations in ways their creators don't control.]
 
@@ -512,8 +522,8 @@ reshape power relations in ways their creators don't control.]
 
 6. **Defender advantage** — WEAKENED. The offense-defense balance literature
    (CSET, PauseAI analysis) concludes offense holds advantage in most
-   domains: "attackers only need to find one vulnerability, while defenders
-   need to find all of them." For unknown future capabilities, defenders
+   domains: ["attackers only need to find one vulnerability, while defenders
+   need to find all of them."](https://pauseai.info/offense-defense#:~:text=attackers%20only%20need%20to%20find%20one%20vulnerability) For unknown future capabilities, defenders
    are at a structural disadvantage. N&K's claim that defenders benefit
    more from AI than attackers is not well-supported empirically.
 
